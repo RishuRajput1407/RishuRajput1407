@@ -5,7 +5,13 @@
   <h3 align="center">Frontend | Backend | MERN Stack Developer from India 🇮🇳</h3>
 
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishuRajput1407&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="Rishu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RishuRajput1407&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub Stats Loading..." />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuRajput1407&layout=donut&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Langs Loading..." />
 </div>
 
   <p align="center">
