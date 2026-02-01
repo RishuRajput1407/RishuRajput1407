@@ -4,14 +4,15 @@
 
   <h3 align="center">Frontend | Backend | MERN Stack Developer from India 🇮🇳</h3>
 
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishuRajput1407&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&v=2" alt="Rishu's GitHub Stats" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RishuRajput1407&theme=radical" alt="Profile Details" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuRajput1407&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&v=2" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RishuRajput1407&theme=radical" alt="Language Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RishuRajput1407&theme=radical" alt="Productive Time" />
 </div>
 
 <br/>
