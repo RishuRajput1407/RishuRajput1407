@@ -4,9 +4,9 @@
 
   <h3 align="center">Frontend | Backend | MERN Stack Developer from India 🇮🇳</h3>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RishuRajput1407&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="RishuRajput1407" />
-  </a>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RishuRajput1407&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="Rishu's GitHub Stats" />
+</div>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/risu-kumar-358237245/" target="_blank">
@@ -15,7 +15,7 @@
     <a href="mailto:rishurajpoot304@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="./Risu-resume.pdf" target="_blank">
+    <a href="file:///C:/Users/User/Dropbox/Risu-resume.pdf" target="_blank">
       <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
     </a>
   </p>
@@ -55,8 +55,8 @@
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
 | **🧺 Laundry Service** | Full-stack laundry booking system | React, Node, MongoDB | [View Code](https://github.com/RishuRajput1407/fullstack-laundry-service-app) |
-| **🛒 E-Shop MERN** | Scalable e-commerce platform | React, Redux, Tailwind | [View Code](https://e-shop-project-rho.vercel.app/) |
-| **🌐 Portfolio** | 3D Interactive Portfolio | React, Three.js | [View Live](https://my-portfolio-v91r.vercel.app/) |
+| **🛒 E-Shop MERN** | Scalable e-commerce platform | React, TypeScript, Tailwind | [View Live](https://e-shop-project-rho.vercel.app/) |
+| **🌐 Portfolio** | 3D Interactive Portfolio | React, TypeScript, Tailwind | [View Live](https://my-portfolio-v91r.vercel.app/) |
 
 ---
 
