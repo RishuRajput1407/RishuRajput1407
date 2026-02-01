@@ -5,13 +5,19 @@
   <h3 align="center">Frontend | Backend | MERN Stack Developer from India 🇮🇳</h3>
 
  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishuRajput1407&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Rishu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RishuRajput1407&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&v=2" alt="Rishu's GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuRajput1407&layout=donut&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuRajput1407&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&v=2" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishuRajput1407&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
   <p align="center">
